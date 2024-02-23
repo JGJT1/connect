@@ -88,6 +88,7 @@ h1{
     left: 0;
     overflow-x: hidden;
     position: fixed;
+    transition: .5s;
 }
 .side-bar a{
     color: #fff;
@@ -101,4 +102,7 @@ h1{
 }
 .side-bar li{
     margin: 20px 10px;
+}
+main p{
+    text-indent: 20px;
 }
